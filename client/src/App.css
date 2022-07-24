@@ -1,0 +1,13 @@
+@font-face {
+  font-family: MyFontKr;
+  src: url(./font/NotoSerifKR-Regular.otf);
+  font-weight: 900;
+  font-style: normal;
+  unicode-range: U+AC00-D7A3;
+}
+@font-face {
+  font-family: MyFontEn;
+  src: url(./font/NotoSerif-Regular.ttf);
+  font-weight: 900;
+  font-style: normal;
+}
