@@ -33,6 +33,7 @@ if (process.env.NODE_ENV === 'production') {
   app.use(
     helmet({
       crossOriginOpenerPolicy: false,
+      originAgentCluster: false,
     })
   );
 }
