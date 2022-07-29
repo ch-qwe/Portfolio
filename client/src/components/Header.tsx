@@ -22,7 +22,7 @@ function component() {
             </Nav.Link>
             <NavDropdown title="WebDesign" id="basic-nav-dropdown" menuVariant="dark" style={{ fontSize: '1.25rem' }}>
               <NavDropdown.Item href="#Templates">Template</NavDropdown.Item>
-              <NavDropdown.Item href="#Buttons">Butoons</NavDropdown.Item>
+              <NavDropdown.Item href="#Btns">Butoons</NavDropdown.Item>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>

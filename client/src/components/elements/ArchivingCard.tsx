@@ -60,7 +60,7 @@ const Card = styled.div`
   }
 
   .member:hover {
-    transform: scale(1);
+    transform: scale(0.9);
     transition: ${styledProps.trans};
     filter: drop-shadow(0px 20px 10px #0008);
   }
