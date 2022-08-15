@@ -61,12 +61,11 @@ function App() {
         <Skills />
         <Anchor id="Archiving" />
         <Archiving />
-        {/* <Anchor id="Projects" /> */}
-        <Anchor id="Templates" />
+        {/* <Anchor id="Templates" />
         <Templates />
         <Anchor id="Btns" />
         <Btns />
-        <OL />
+        <OL /> */}
       </article>
       <footer>
         <Footer />

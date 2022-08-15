@@ -32,21 +32,15 @@ const MyContainer = styled(Container)`
 
 function component() {
   return (
-    <MyContainer fluid={true} className="bg-light mb-5">
+    <MyContainer fluid={true} className="bg-light">
       <Container className="h-100 d-flex flex-column justify-content-center align-items-center">
         <Row className="d-flex justify-content-center">
           <ul className="footer-social-links">
             <li>
-              <a href="#facebook">BLOG</a>
+              <a href="https://github.com/mincheolhong">GITHUB</a>
             </li>
             <li>
-              <a href="#facebook">GITHUB</a>
-            </li>
-            <li>
-              <a href="twitter">LINKEDIN</a>
-            </li>
-            <li>
-              <a href="#facebook">FACEBOOK</a>
+              <a href="https://blog.naver.com/minqt98">BLOG</a>
             </li>
           </ul>
         </Row>

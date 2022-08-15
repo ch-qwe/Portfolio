@@ -60,9 +60,9 @@ function Component() {
               </div>
               <div className="card-social">
                 {/* 페북 */}
-                <a href="#foo1">
+                {/* <a href="#foo1">
                   <BsFacebook />
-                </a>
+                </a> */}
                 <a href="https://github.com/mincheolhong" target="_blank">
                   <BsGithub />
                 </a>
@@ -82,12 +82,12 @@ function Component() {
                       능력을 학습하고 있습니다.
                     </div>
                     <br />
-                    <div className="card-item-title">
+                    {/* <div className="card-item-title">
                       <span>웹 개발 프리랜서</span>
                     </div>
                     <div className="card-item-desc">
                       React, Express 를 활용하여 웹 사이트 개발 하고 AWS EC2를 이용해 배포하며 웹을 개발하고 있습니다.
-                    </div>
+                    </div> */}
                   </div>
                   <div className="card-item" data-year="2021">
                     <div className="card-item-title">
